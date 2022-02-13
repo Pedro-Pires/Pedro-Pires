@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 Atualmente sou doutorando em Engenharia Mecânica
+- 🔭 Atualmente sou pesquisador em Engenharia Mecânica
 - 🌱 Comecei a estudar programação por paixão pela área
 - 📫 Contate-me no e-mail: pedrohenriquepiresf96@gmail.com
 - 🤔 Curiosidade: Além de programar, sou um ótimo gamer
