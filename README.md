@@ -1,31 +1,17 @@
-### Olá! Eu sou o Pedro!
+<h1 align="center">Hello!! 👋, I'm Pedro!</h1>
+<h3 align="center">I currently work as a researcher in mechanical engineering</h3>
 
-<br>
+- 🌱 I’m currently learning **Machine Learning**
 
-- 🔭 Atualmente atuo na área de pesquisa em engenharia mecânica
-- 🌱 Me interesso por ciência de dados, simulação computacional e programação.
-- 📫 Contate-me no e-mail: pedrohenriquepiresf96@gmail.com
+- 💬 Ask me about **MySQL, Python and Matlab**
 
+- 📫 How to reach me **pedrohenriquepiresf96@gmail.com**
 
-##
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pedrofrança" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrofrança" height="30" width="40" /></a>
+<a href="https://kaggle.com/pedrohenriquepires" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pedrohenriquepires" height="30" width="40" /></a>
+</p>
 
-<div>
-  <a href = "https://github.com/Pedro-Pires">
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=Pedro-Pires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Pires&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
-<div style = "display: inline_block"> <br>
-    <img align = "center" alt = "linguagemC" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
-
-##
-<br>
-  
-<div>
-     <a href = "https://www.linkedin.com/in/pedrofrança/" target = "_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"> </a>  
-</div>
-
-##
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
