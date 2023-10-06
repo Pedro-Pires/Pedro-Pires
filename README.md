@@ -1,5 +1,5 @@
 <h1 align="center">Hello!! 👋, I'm Pedro!</h1>
-<h3 align="center">I'm a mechanical engineer, holding a degree from the Federal University of Uberlândia (UFU), and I also obtained my master's degree at the same institution, with a focus on manufacturing processes, especially in the area of machining.</h3>
+<h3 align="center">I'm a mechanical engineer and a master in manufacturing processes.</h3>
 
 
 🔍 I'm passionate about research and discovering results through it. Throughout my academic journey, I extensively used statistics and result analysis in my research. The pursuit of knowledge and a deeper understanding of processes has always been my driving force.
